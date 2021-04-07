@@ -1,3 +1,3 @@
 .intro__text {
-  flex-basis: 50%;
+  max-width: 50%;
 }
