@@ -1,0 +1,4 @@
+.place-card {
+  display: flex;
+  max-height: 560px;
+}
