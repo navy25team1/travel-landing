@@ -8,3 +8,45 @@
   justify-content: center;
   align-items: center;
 }
+
+@media (max-width: 1000px) {
+
+  .footer__container {
+    min-height: 350px;
+  }
+}
+
+@media (max-width: 900px) {
+
+  .footer__container {
+    min-height: 300px;
+  }
+}
+
+@media (max-width: 800px) {
+
+  .footer__container {
+    min-height: 250px;
+  }
+}
+/*
+@media (max-width: 700px) {
+
+  .footer__container {
+    min-height: 200px;
+  }
+}
+
+@media (max-width: 600px) {
+
+  .footer__container {
+    min-height: 150px;
+  }
+}*/
+
+@media (max-width: 400px) {
+
+  .footer__container {
+    min-height: 200px;
+  }
+}

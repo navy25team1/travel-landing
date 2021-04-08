@@ -3,4 +3,19 @@
   color: #fecda7;
   font-weight: 300;
   text-transform: uppercase;
+  font-size: 14px;
+}
+
+@media (max-width: 1000px) {
+
+  .intro__subtitle {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 400px) {
+
+  .intro__subtitle {
+    font-size: 10px;
+  }
 }
