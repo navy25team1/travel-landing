@@ -3,6 +3,7 @@
   padding: 0;
   color: #010101;
   font-weight: 700;
+  font-size: 16px;
   text-decoration: none;
   background-image: linear-gradient(currentColor, currentColor);
   background-position: 0% 100%;
@@ -13,4 +14,18 @@
 
 .header__link:hover {
   background-size: 100% 2px;
+}
+
+@media (max-width: 800px) {
+
+  .header__link {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 560px) {
+
+  .header__link {
+    font-size: 12px;
+  }
 }
