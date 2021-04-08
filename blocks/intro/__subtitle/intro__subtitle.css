@@ -1,4 +1,6 @@
 .intro__subtitle {
   text-align: left;
   color: #fecda7;
+  font-weight: 300;
+  text-transform: uppercase;
 }

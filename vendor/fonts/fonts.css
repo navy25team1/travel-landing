@@ -1,23 +1,17 @@
 @font-face {
-  src: url('Roboto-Light.ttf') format('truetype'),;
-  font-family: 'Roboto';
+  src: url('Raleway-Light.ttf') format('truetype'),;
+  font-family: 'Raleway';
   font-weight: 300;
 }
 
 @font-face {
-  src: url('Roboto-Regular.ttf') format('truetype');
-  font-family: 'Roboto';
-  font-weight: 400;
+  src: url('Raleway-SemiBold.ttf') format('truetype');
+  font-family: 'Raleway';
+  font-weight: 600;
 }
 
 @font-face {
-  src: url('Roboto-Medium.ttf') format('truetype');
-  font-family: 'Roboto';
-  font-weight: 500;
-}
-
-@font-face {
-  src: url('Roboto-Bold.ttf') format('truetype');
-  font-family: 'Roboto';
+  src: url('Raleway-Bold.ttf') format('truetype');
+  font-family: 'Raleway';
   font-weight: 700;
 }
