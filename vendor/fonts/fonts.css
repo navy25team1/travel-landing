@@ -15,3 +15,9 @@
   font-family: 'Raleway';
   font-weight: 700;
 }
+
+@font-face {
+  src: url('DMSans-Bold.ttf') format('truetype');
+  font-family: 'DM Sans-Bold';
+  font-weight: 700;
+}
