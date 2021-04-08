@@ -4,4 +4,10 @@
   padding: 0;
   object-position: center;
   object-fit: cover;
+  opacity: 1;
+}
+
+.intro__image:hover {
+  opacity: 0.7;
+  transition: opacity 2s ease-in-out;
 }
