@@ -1,6 +1,8 @@
 .header__link {
   margin: 0;
   padding: 0;
+  color: #010101;
+  font-size: 700;
   text-decoration: none;
   background-image: linear-gradient(currentColor, currentColor);
   background-position: 0% 100%;

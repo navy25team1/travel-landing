@@ -1,0 +1,17 @@
+@font-face {
+  src: url('Raleway-Light.ttf') format('truetype'),;
+  font-family: 'Raleway';
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('Raleway-SemiBold.ttf') format('truetype');
+  font-family: 'Raleway';
+  font-weight: 600;
+}
+
+@font-face {
+  src: url('Raleway-Bold.ttf') format('truetype');
+  font-family: 'Raleway';
+  font-weight: 700;
+}
