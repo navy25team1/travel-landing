@@ -1,4 +1,21 @@
 .place-card {
   display: flex;
-  max-height: 560px;
+  flex-direction: row;
+  max-height: 550px;
+}
+
+.place-card:nth-of-type(2n) {
+  flex-direction: row-reverse;
+}
+
+@media (max-width: 768px) {
+  .place-card {
+    flex-direction: column;
+    justify-content: space-between;
+    max-height: 100%;
+  }
+
+  .place-card:nth-of-type(2n) {
+    flex-direction: column;
+  }
 }

@@ -14,3 +14,10 @@
     align-items: flex-start;
   }
 }
+
+@media (max-width: 768px) {
+  .header__navigation {
+    display: flex;
+    flex-direction: column;
+  }
+}

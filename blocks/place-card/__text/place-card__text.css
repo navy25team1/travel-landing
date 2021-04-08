@@ -3,6 +3,12 @@
   display: flex;
   flex-direction: column;
   background-color: #f2f2f2;
-  padding: 40px;
   justify-content: space-between;
+  width: 50%;
+}
+
+@media (max-width: 768px) {
+  .place-card__text {
+    width: 100%;
+  }
 }
