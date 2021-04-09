@@ -1,4 +1,6 @@
 .quotes__list-item {
   margin: 0;
   max-width: 270px;
+  font-size: 16px;
+  margin-right: 48px;
 }

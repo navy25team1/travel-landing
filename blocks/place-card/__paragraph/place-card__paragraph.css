@@ -1,0 +1,21 @@
+.place-card__paragraph {
+  font-family: "Raleway", "DM Sans-Bold", sans-serif;
+  margin: 24px;
+  max-width: 450px;
+  font-size: 14px;
+  font-weight: 300;
+  font-style: normal;
+}
+.place-card__paragraph:last-of-type {
+  margin: 24px;
+}
+
+@media (min-width: 768px) {
+  .place-card__paragraph {
+    font-size: 16px;
+    margin: 0 64px 24px 64px;
+  }
+  .place-card__paragraph:last-of-type {
+    margin: 0 64px 48px 64px;
+  }
+}
