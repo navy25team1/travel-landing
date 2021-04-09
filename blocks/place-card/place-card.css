@@ -1,7 +1,7 @@
 .place-card {
   display: flex;
   flex-direction: row;
-  max-height: 550px;
+  max-height: 700px;
 }
 
 .place-card:nth-of-type(2n) {

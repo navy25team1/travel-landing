@@ -1,0 +1,15 @@
+.place-card__title {
+  margin: 48px 0 0 64px;
+  font-size: 36px;
+  font-weight: 900;
+  font-family: "Raleway", "DM Sans-Bold", sans-serif;
+}
+
+@media (max-width: 768px) {
+  .place-card__title {
+    margin: 24px;
+    font-size: 32px;
+    font-weight: 900;
+    text-align: center;
+  }
+}
