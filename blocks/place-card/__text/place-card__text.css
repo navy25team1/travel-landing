@@ -4,11 +4,12 @@
   flex-direction: column;
   background-color: #f2f2f2;
   justify-content: space-between;
-  width: 50%;
+  width: 100%;
+  font-family: "Raleway", "DM Sans-Bold", sans-serif;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 768px) {
   .place-card__text {
-    width: 100%;
+    width: 50%;
   }
 }
