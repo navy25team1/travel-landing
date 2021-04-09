@@ -1,4 +1,10 @@
 @font-face {
+  src: url('Roboto-Thin.ttf') format('truetype'),;
+  font-family: 'Roboto';
+  font-weight: 100;
+}
+
+@font-face {
   src: url('Roboto-Light.ttf') format('truetype'),;
   font-family: 'Roboto';
   font-weight: 300;
