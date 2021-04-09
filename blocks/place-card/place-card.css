@@ -12,6 +12,7 @@
   .place-card {
     display: flex;
     flex-direction: row;
+    min-height: 600px;
     max-height: 700px;
   }
 

@@ -1,9 +1,0 @@
-.place-card__image-wrapper {
-  width: 100%;
-}
-
-@media (min-width: 768px) {
-  .place-card__image-wrapper {
-    width: 50%;
-  }
-}
