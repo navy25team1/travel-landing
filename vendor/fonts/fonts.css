@@ -1,6 +1,6 @@
 @font-face {
-  src: url('Roboto-Light.ttf') format('truetype'),;
-  font-family: 'Roboto';
+  src: url("./Roboto-Light.ttf") format("truetype");
+  font-family: "Roboto";
   font-weight: 300;
 }
 
@@ -11,7 +11,7 @@
 }
 
 @font-face {
-  src: url("./RobotoMono-Medium.ttf") format("truetype");
+  src: url("./Roboto-Medium.ttf") format("truetype");
   font-family: "Roboto";
   font-weight: 500;
 }

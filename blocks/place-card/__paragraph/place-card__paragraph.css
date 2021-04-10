@@ -1,9 +1,10 @@
 .place-card__paragraph {
   font-family: "Roboto", sans-serif;
   margin: 24px;
-  max-width: 450px;
+  max-width: 100%;
+
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 400;
   font-style: normal;
 }
 .place-card__paragraph:last-of-type {
@@ -14,6 +15,7 @@
   .place-card__paragraph {
     font-size: 16px;
     margin: 0 64px 24px 64px;
+    max-width: 450px;
   }
   .place-card__paragraph:last-of-type {
     margin: 0 64px 80px 64px;

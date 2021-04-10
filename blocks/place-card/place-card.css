@@ -1,11 +1,5 @@
 .place-card {
   flex-direction: column;
-  justify-content: space-between;
-  max-height: 100%;
-}
-
-.place-card:nth-of-type(2n) {
-  flex-direction: column;
 }
 
 @media (min-width: 768px) {
@@ -14,6 +8,7 @@
     flex-direction: row;
     min-height: 600px;
     max-height: 700px;
+    max-width: 100%;
   }
 
   .place-card:nth-of-type(2n) {
