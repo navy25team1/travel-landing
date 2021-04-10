@@ -3,17 +3,16 @@
   margin: 0;
   padding: 0;
   overflow-y: hidden;
+  max-height: 400px;
 }
 
 @media (max-width: 980px) {
-
   .intro__image-wrapper {
     max-width: 36%;
   }
 }
 
 @media (max-width: 560px) {
-
   .intro__image-wrapper {
     display: none;
   }
