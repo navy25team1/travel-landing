@@ -3,7 +3,7 @@
   margin: 24px;
   max-width: 450px;
   font-size: 14px;
-  font-weight: 300;
+  font-weight: 500;
   font-style: normal;
 }
 .place-card__paragraph:last-of-type {
@@ -16,6 +16,6 @@
     margin: 0 64px 24px 64px;
   }
   .place-card__paragraph:last-of-type {
-    margin: 0 64px 48px 64px;
+    margin: 0 64px 80px 64px;
   }
 }
