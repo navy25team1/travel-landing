@@ -1,5 +1,5 @@
 .intro__image {
-  display: block;
+  display: none;
   max-width: 33%;
   margin: 24px 0 24px 64px;
   padding: 0;
@@ -11,4 +11,10 @@
 .intro__image:hover {
   opacity: 0.7;
   transition: opacity 2s ease-in-out;
+}
+
+@media (min-width: 560px) {
+  .intro__image {
+    display: block;
+  }
 }
