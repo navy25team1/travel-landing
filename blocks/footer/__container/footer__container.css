@@ -1,6 +1,6 @@
 .footer__container {
   max-width: 100vw;
-  min-height: 450px;
+  min-height: 550px;
   margin: 0 auto;
   padding: 0;
   background-color: #fecda7;
@@ -12,21 +12,21 @@
 @media (max-width: 1000px) {
 
   .footer__container {
-    min-height: 350px;
+    min-height: 450px;
   }
 }
 
 @media (max-width: 900px) {
 
   .footer__container {
-    min-height: 300px;
+    min-height: 350px;
   }
 }
 
 @media (max-width: 800px) {
 
   .footer__container {
-    min-height: 250px;
+    min-height: 30px;
   }
 }
 /*
