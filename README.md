@@ -1,5 +1,10 @@
-# travel-landing
+# Куда я поеду?
 
-landing page for yandex praktikum competitions
+Проект для конкурса верстки Я-Практикума
+
+html5
+css
+БЭМ
+Адаптивная верстка
 
 [live demo](https://navy25team1.github.io/travel-landing/)
